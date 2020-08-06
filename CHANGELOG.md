@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/paopaojr/semantic-release-poc/compare/v1.10.0...v1.11.0) (2020-08-06)
+
+
+### Features
+
+* **test:** test ([f88ffbb](https://github.com/paopaojr/semantic-release-poc/commit/f88ffbbad302d4314ad8acc4c30cd3f9a0083cfd))
+
 # [1.10.0](https://github.com/paopaojr/semantic-release-poc/compare/v1.9.0...v1.10.0) (2020-08-06)
 
 
