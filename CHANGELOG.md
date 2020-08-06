@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/paopaojr/semantic-release-poc/compare/v1.8.0...v1.9.0) (2020-08-06)
+
+
+### Features
+
+* **table-view:** test ([e1fa0b6](https://github.com/paopaojr/semantic-release-poc/commit/e1fa0b6a3a27fcb141c40ee0c72c062dfec7f0ba))
+
 # [1.6.0](https://github.com/paopaojr/semantic-release-poc/compare/v1.5.0...v1.6.0) (2020-08-05)
 
 
