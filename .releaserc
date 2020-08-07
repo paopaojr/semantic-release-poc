@@ -12,6 +12,9 @@
 		}],
 		"@semantic-release/github",
 		"@semantic-release/changelog",
-		"@semantic-release/git"
+		"@semantic-release/git",
+    ["@semantic-release/exec", {
+      "successCmd": "echo 'SUCCESS!!'"
+    }],
 	]
 }
